@@ -1,6 +1,6 @@
 ## Stats
   <div align=center>
-    <img height="200px" src="https://github-readme-stats-two-sigma-59.vercel.app/api?username=scrollxz&theme=dark" />
+    <img height="200px" src="https://github-readme-stats-two-sigma-59.vercel.app/api?username=scrollxz&theme=github_dark_dimmed" />
   </div>
 
 ## Skills
