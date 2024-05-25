@@ -1,14 +1,14 @@
-## Stats
-  <div align=center>
-    <img height="200px" src="https://github-readme-stats-two-sigma-59.vercel.app/api?username=scrollxz&theme=github_dark_dimmed" />
-  </div>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=5c3d9f&height=120&section=header"/>
 
-## Skills
-  <div style="flex-basis: 48%; background-color: white;">
-    <img align="center" alt="HTML" height="84" width="84" style="padding-right:10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-    <img align="center" alt="CSS" height="84" width="84" style="padding-right:10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-    <img align="center" alt="Ruby" height="84" width="84" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ruby/ruby-original.svg" />
-    <img align="center" alt="Js" height="84" width="84" style="padding-right:10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-    <img align="center" alt="React" height="84" width="84" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
-    <img align="center" alt="Rails" height="84" width="84" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rails/rails-plain-wordmark.svg" />
-  </div>
+### Minhas Skills:
+![Html](https://img.shields.io/badge/-Html-0D1117?style=for-the-badge&logo=HTML5&labelColor=0D1117)&nbsp;
+![CSS3](https://img.shields.io/badge/css3-0D1117?style=for-the-badge&logo=css3&logoColor=1572B6&labelColor=0D1117)
+![Ruby](https://img.shields.io/badge/ruby-0D1117?style=for-the-badge&logo=ruby&logoColor=ff0000)
+![Rails](https://img.shields.io/badge/rails-0D1117?style=for-the-badge&logo=ruby-on-rails&logoColor=ff0000)
+![JavaScript](https://img.shields.io/badge/javascript-0D1117?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![React Native](https://img.shields.io/badge/react_native-0D1117?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+
+### Estudando:
+![Next JS](https://img.shields.io/badge/Next-0D1117?style=for-the-badge&logo=next.js&logoColor=white)
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=5c3d9f&height=120&section=footer"/>
